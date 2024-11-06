@@ -20,13 +20,13 @@ Este portal ha sido desarrollado utilizando tecnologías de vanguardia para aseg
 
 ### - Frontend:
 
-![Imagen 1](uno.png)
-![Imagen 2](dos.png)
-![Imagen 3](tres.png)
-![Imagen 4](cuatro.png)
-![Imagen 5](cinco.png)
-![Imagen 6](seis.png)
-![Imagen 7](siete.png)
-![Imagen 8](ocho.png)
-![Imagen 9](nueve.png)
-![Imagen 10](diez.png)
+![Imagen 1](fotos/uno.png)
+![Imagen 2](fotos/dos.png)
+![Imagen 3](fotos/tres.png)
+![Imagen 4](fotos/cuatro.png)
+![Imagen 5](fotos/cinco.png)
+![Imagen 6](fotos/seis.png)
+![Imagen 7](fotos/siete.png)
+![Imagen 8](fotos/ocho.png)
+![Imagen 9](fotos/nueve.png)
+![Imagen 10](fotos/diez.png)
