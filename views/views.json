@@ -1,0 +1,8 @@
+{
+	"1": ["usuarios"],
+	"2": ["proveedores", "certificados", "estadisticas", "lotes", "domicilio"],
+	"3": ["estadisticas", "proveedores", "clientes", "domicilio"],
+	"4": ["estadisticas", "proveedores", "pedidos", "lotes", "domicilio"],
+	"5": ["mediciones", "estadisticas", "certificados", "equipos"],
+	"6": ["clientes","pedidos", "estadisticas", "certificados", "domicilio"]
+}

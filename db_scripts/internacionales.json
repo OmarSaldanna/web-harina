@@ -1,0 +1,15 @@
+{
+  "Alveógrafo": {
+    "Tenacidad a Extensibilidad (P/L)": [0.4,1.1],
+    "Tenacidad (P)": [50,70],
+    "Extensibilidad (L)": [80,180],
+    "Índice de Elasticidad": [0.8,1.3],
+    "Energía de Deformación": [90,150]
+  },
+  "Farinógrafo": {
+    "Absorción de agua": [54,64],
+    "Tiempo de desarrollo": [1.5,8],
+    "Estabilidad": [4,15],
+    "Debilitamiento": [20,200],
+    "Índice de calidad": [60,100]
+}
